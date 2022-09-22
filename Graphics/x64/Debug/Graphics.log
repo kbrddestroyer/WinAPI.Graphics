@@ -1,0 +1,6 @@
+﻿  RenderedObject.cpp
+C:\Users\grudk\source\repos\Graphics\Graphics\RenderedObject.cpp(14,12): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\grudk\source\repos\Graphics\Graphics\RenderedObject.cpp(161,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\grudk\source\repos\Graphics\Graphics\RenderedObject.cpp(167,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\grudk\source\repos\Graphics\Graphics\RenderedObject.cpp(190,49): warning C4305: +=: усечение из "double" в "float"
+  Graphics.vcxproj -> C:\Users\grudk\source\repos\Graphics\x64\Debug\Graphics.exe
